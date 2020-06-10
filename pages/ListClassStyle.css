@@ -1,0 +1,8 @@
+#clase-container{
+    perspective: 500px;
+    
+}
+
+#clase-list{
+    display: flex;
+}
